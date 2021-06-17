@@ -1,0 +1,13 @@
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao2\reajusteSalario\reajusteSalario\bin\Debug\netcoreapp3.1\reajusteSalario.exe
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao2\reajusteSalario\reajusteSalario\bin\Debug\netcoreapp3.1\reajusteSalario.deps.json
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao2\reajusteSalario\reajusteSalario\bin\Debug\netcoreapp3.1\reajusteSalario.runtimeconfig.json
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao2\reajusteSalario\reajusteSalario\bin\Debug\netcoreapp3.1\reajusteSalario.runtimeconfig.dev.json
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao2\reajusteSalario\reajusteSalario\bin\Debug\netcoreapp3.1\reajusteSalario.dll
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao2\reajusteSalario\reajusteSalario\bin\Debug\netcoreapp3.1\reajusteSalario.pdb
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao2\reajusteSalario\reajusteSalario\obj\Debug\netcoreapp3.1\reajusteSalario.csproj.AssemblyReference.cache
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao2\reajusteSalario\reajusteSalario\obj\Debug\netcoreapp3.1\reajusteSalario.AssemblyInfoInputs.cache
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao2\reajusteSalario\reajusteSalario\obj\Debug\netcoreapp3.1\reajusteSalario.AssemblyInfo.cs
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao2\reajusteSalario\reajusteSalario\obj\Debug\netcoreapp3.1\reajusteSalario.csproj.CoreCompileInputs.cache
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao2\reajusteSalario\reajusteSalario\obj\Debug\netcoreapp3.1\reajusteSalario.dll
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao2\reajusteSalario\reajusteSalario\obj\Debug\netcoreapp3.1\reajusteSalario.pdb
+D:\Cursos\programacao\IMPACTA\ecercicios\exercicio-logica-programacao2\reajusteSalario\reajusteSalario\obj\Debug\netcoreapp3.1\reajusteSalario.genruntimeconfig.cache
